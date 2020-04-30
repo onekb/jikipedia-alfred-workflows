@@ -1,0 +1,12 @@
+{
+    "name": "onekb/jikipedia",
+    "authors": [
+        {
+            "name": "onekb",
+            "email": "1@1kb.ren"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
